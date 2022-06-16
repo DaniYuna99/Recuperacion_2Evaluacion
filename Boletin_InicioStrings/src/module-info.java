@@ -1,0 +1,2 @@
+module boletin_InicioStrings {
+}
